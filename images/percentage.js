@@ -16,3 +16,4 @@ setTimeout(() => {
   circleElem.style.strokeDashoffset = dashOffset;
   
 }, 300);
+console.log(1)
